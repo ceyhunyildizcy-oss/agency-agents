@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agency Agents"
+  short_description: "GitHub depondan göreve uygun uzman seç ve uygula"
+  default_prompt: "$agency-agents kullanarak bu görev için uygun uzmanı seç ve Türkçe tamamla."
